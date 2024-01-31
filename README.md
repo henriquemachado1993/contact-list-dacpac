@@ -11,4 +11,4 @@ DACPAC - Esse recurso trabalha com a estrutura e as funcionalidades do banco de 
 ## Pré-requisitos
 - **.NET Core 3.1 SDK**
 - **SQL Server**
-- **Conta azure**
+- **Conta Azure**
