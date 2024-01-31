@@ -6,9 +6,9 @@ DACPAC - Esse recurso trabalha com a estrutura e as funcionalidades do banco de 
 
 ## Funcionalidades
 
-- **Cadastro de lista de contatos
+- **Cadastro de lista de contatos**
 
 ## Pré-requisitos
-.NET Core 3.1 SDK
-SQL Server
-Conta azure
+- **.NET Core 3.1 SDK**
+- **SQL Server**
+- **Conta azure**
