@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactList", "ContactList\ContactList.csproj", "{53D43666-9A45-47C5-9717-F79E78506689}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ContactList.DataBase", "ContactList.DataBase\ContactList.DataBase.sqlproj", "{BE6B5DC7-F8DE-441C-9354-D1DE05CD16DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D43666-9A45-47C5-9717-F79E78506689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D43666-9A45-47C5-9717-F79E78506689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D43666-9A45-47C5-9717-F79E78506689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D43666-9A45-47C5-9717-F79E78506689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6B5DC7-F8DE-441C-9354-D1DE05CD16DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6B5DC7-F8DE-441C-9354-D1DE05CD16DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6B5DC7-F8DE-441C-9354-D1DE05CD16DC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BE6B5DC7-F8DE-441C-9354-D1DE05CD16DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6B5DC7-F8DE-441C-9354-D1DE05CD16DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6B5DC7-F8DE-441C-9354-D1DE05CD16DC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD32749C-1871-4D26-91AD-4DA1BCA759A3}
+	EndGlobalSection
+EndGlobal
